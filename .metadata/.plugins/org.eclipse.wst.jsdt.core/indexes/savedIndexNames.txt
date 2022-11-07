@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+F:\TechnoElevate\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3239683873.index
+2414405096.index
+3294090035.index
+2576349683.index
+485642199.index
+79490830.index
+397462725.index
+2876659217.index
+171651969.index
+4095961830.index

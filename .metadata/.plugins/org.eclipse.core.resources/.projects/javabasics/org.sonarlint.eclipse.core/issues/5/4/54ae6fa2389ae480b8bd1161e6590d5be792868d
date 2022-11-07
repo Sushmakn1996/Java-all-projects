@@ -1,0 +1,38 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal "admin" 3 times.(„‰ÂÜüÿÿÿÿ8üéÿ›¿0HÆRCRITICALZ
+CODE_SMELL
+¢
+java:S1192"gDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/testyantra" 3 times.(„‰ÂÜüÿÿÿÿ8üéÿ›¿0HÊRCRITICALZ
+CODE_SMELL
+	java:S135A"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8üéÿ›¿0HÎRMINORZ
+CODE_SMELL
+‚
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÊ†øÿÿÿÿ8üéÿ›¿0HÑRBLOCKERZBUG
+{
+java:S2095*"HUse try-with-resources or close this "Connection" in a "finally" clause.(„‰ÂÜüÿÿÿÿ8üéÿ›¿0HÒRBLOCKERZBUG
+‚
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÇÌñƒÿÿÿÿÿ8üéÿ›¿0HÓRBLOCKERZBUG
+{
+java:S20954"HUse try-with-resources or close this "Connection" in a "finally" clause.(„‰ÂÜüÿÿÿÿ8üéÿ›¿0HÔRBLOCKERZBUG
+}
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(å‰ûÁ8üéÿ›¿0HÕRBLOCKERZBUG
+{
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(„‰ÂÜüÿÿÿÿ8üéÿ›¿0HÖRBLOCKERZBUG
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(’Áˆ¹8üéÿ›¿0H×RMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(Ä¹¿ÿúÿÿÿÿ8üéÿ›¿0HØRMAJORZ
+CODE_SMELL
+j	java:S1069"9Replace this use of System.out or System.err by a logger.(¤£ü8üéÿ›¿0HÙRMAJORZ
+CODE_SMELL
+N
+java:S3626J"Remove this redundant jump.(ÉŠ©ƒ8üéÿ›¿0HÚRMINORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(ñ»Ôˆ8üéÿ›¿0HÛRMAJORZ
+CODE_SMELL
+p	java:S106G"9Replace this use of System.out or System.err by a logger.(Øæùúøÿÿÿÿ8üéÿ›¿0HÜRMAJORZ
+CODE_SMELL
+n	java:S125Q"<This block of commented-out lines of code should be removed.(î¯ÔÉ8üéÿ›¿0HİRMAJORZ
+CODE_SMELL
+s	java:S125b"<This block of commented-out lines of code should be removed.(¯ñüÿÿÿÿ8üéÿ›¿0HëRMAJORZ
+CODE_SMELL

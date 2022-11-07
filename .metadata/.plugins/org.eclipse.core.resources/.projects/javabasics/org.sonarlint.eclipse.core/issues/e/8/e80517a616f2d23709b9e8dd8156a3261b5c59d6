@@ -1,0 +1,14 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ÿŒ‘şÿÿÿÿHòRMINORZ
+CODE_SMELL
+~	java:S116"NRename this field "SID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…İ¢ÇúÿÿÿÿHóRMINORZ
+CODE_SMELL
+€	java:S116"PRename this field "SName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛßšùÿÿÿÿHôRMINORZ
+CODE_SMELL
+	java:S116"ORename this field "SAge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¸®ÊÿÿÿÿÿHõRMINORZ
+CODE_SMELL
+	java:S116"QRename this field "SMarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¸˜êøÿÿÿÿHöRMINORZ
+CODE_SMELL
+Š
+java:S1210!"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿH÷RMINORZ
+CODE_SMELL

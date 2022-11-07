@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Thu Oct 27 11:40:20 IST 2022
+org.eclipse.jst.jee.server\:springrest=E\:\\MySoftwareTools\\apache-tomcat-9.0.68\\wtpwebapps\\springrest
+org.eclipse.jst.jee.server\:springmvc=E\:\\MySoftwareTools\\apache-tomcat-9.0.68\\wtpwebapps\\springmvc
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\SUZIE\\.m2\\repository\\org\\springframework\\spring-web\\5.2.9.RELEASE\\spring-web-5.2.9.RELEASE.jar=E\:\\MySoftwareTools\\apache-tomcat-9.0.68\\wtpwebapps\\springrest\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar
+org.eclipse.jst.jee.server\:empmanagementsystem=E\:\\MySoftwareTools\\apache-tomcat-9.0.68\\wtpwebapps\\empmanagementsystem

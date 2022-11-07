@@ -1,0 +1,8 @@
+
+‚	java:S116"PRename this field "EmpId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÃù8¼Ã´¯¾0HÚ$RMINORZ
+CODE_SMELL
+‰	java:S116"RRename this field "EmpName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á–Ñ‚ùÿÿÿÿ8¼Ã´¯¾0HÛ$RMINORZ
+CODE_SMELL
+i
+java:S1128"7Remove this unused import 'javax.annotation.Generated'.(­¦êQ8³¶«°¾0HÜ$RMINORZ
+CODE_SMELL

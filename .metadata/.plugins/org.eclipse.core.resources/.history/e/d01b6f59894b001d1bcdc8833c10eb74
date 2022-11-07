@@ -1,0 +1,27 @@
+package com.te.java.encapsulation;
+
+public class Employee {
+	private String name;
+	private int Id;
+	private String Branch;
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getId() {
+		return Id;
+	}
+	public void setId(int id) {
+		Id = id;
+	}
+	public String getBranch() {
+		return Branch;
+	}
+	public void setBranch(String branch) {
+		Branch = branch;
+	}
+	
+
+}

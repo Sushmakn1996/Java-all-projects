@@ -1,0 +1,9 @@
+
+q
+java:S1128">Remove this unused import 'java.util.logging.SimpleFormatter'.(ÇöÁ8ºİ§¾0HÇRMINORZ
+CODE_SMELL
+}
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(éô‹Üûÿÿÿÿ8ëô²¦¾0HÉRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ş¡ƒçşÿÿÿÿ8ºİ§¾0HÌRMAJORZ
+CODE_SMELL

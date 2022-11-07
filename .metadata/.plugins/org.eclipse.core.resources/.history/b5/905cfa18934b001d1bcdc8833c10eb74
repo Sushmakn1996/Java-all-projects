@@ -1,0 +1,10 @@
+package com.te.java.encapsulation;
+
+public class EmployeeTest {
+public static void main(String[] args) {
+	Employee employee=new Employee();
+	employee.getName();
+	employee.getId();
+	
+}
+}

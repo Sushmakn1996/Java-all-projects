@@ -1,0 +1,38 @@
+
+z
+java:S1192"FDefine a constant instead of duplicating this literal "admin" 3 times.(„‰ÂÜüÿÿÿÿHŸRCRITICALZ
+CODE_SMELL
+d	java:S106C"9Replace this use of System.out or System.err by a logger.(ñ»ÔˆH¨RMAJORZ
+CODE_SMELL
+t
+java:S20954"HUse try-with-resources or close this "Connection" in a "finally" clause.(„‰ÂÜüÿÿÿÿHƒRBLOCKERZBUG
+G
+java:S3626J"Remove this redundant jump.(ÉŠ©ƒH£RMINORZ
+CODE_SMELL
+c	java:S1069"9Replace this use of System.out or System.err by a logger.(¤£üHRMAJORZ
+CODE_SMELL
+g	java:S125Q"<This block of commented-out lines of code should be removed.(î¯ÔÉH‘RMAJORZ
+CODE_SMELL
+›
+java:S1192"gDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/testyantra" 3 times.(„‰ÂÜüÿÿÿÿH„RCRITICALZ
+CODE_SMELL
+‰	java:S135A"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿH‰RMINORZ
+CODE_SMELL
+t
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(„‰ÂÜüÿÿÿÿHˆRBLOCKERZBUG
+i	java:S106."9Replace this use of System.out or System.err by a logger.(Ä¹¿ÿúÿÿÿÿHªRMAJORZ
+CODE_SMELL
+{
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÇÌñƒÿÿÿÿÿH©RBLOCKERZBUG
+{
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÊ†øÿÿÿÿH¦RBLOCKERZBUG
+v
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(å‰ûÁH¤RBLOCKERZBUG
+t
+java:S2095*"HUse try-with-resources or close this "Connection" in a "finally" clause.(„‰ÂÜüÿÿÿÿH¥RBLOCKERZBUG
+i	java:S106G"9Replace this use of System.out or System.err by a logger.(ØæùúøÿÿÿÿH«RMAJORZ
+CODE_SMELL
+d	java:S106$"9Replace this use of System.out or System.err by a logger.(’Áˆ¹H§RMAJORZ
+CODE_SMELL
+l	java:S125b"<This block of commented-out lines of code should be removed.(¯ñüÿÿÿÿHŒRMAJORZ
+CODE_SMELL

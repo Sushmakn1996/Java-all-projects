@@ -1,0 +1,16 @@
+
+p
+java:S1128"8Remove this unused import 'java.util.logging.Formatter'.(ÚÊŠ¤ûÿÿÿÿ8…³“¨¾0H­RMINORZ
+CODE_SMELL
+}
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(éô‹Üûÿÿÿÿ8ðì·§¾0H”RMINORZ
+CODE_SMELL
+o
+java:S1128	"<Remove this unused import 'java.util.logging.LoggingMXBean'.(³¥ç8÷–£¨¾0H´RMINORZ
+CODE_SMELL
+e
+java:S3416"-Update this logger to use "JavaLogger.class".(éô‹Üûÿÿÿÿ8ðì·§¾0H“RMINORZ
+CODE_SMELL
+^
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Ùüù©¾0H¾RMINORZ
+CODE_SMELL

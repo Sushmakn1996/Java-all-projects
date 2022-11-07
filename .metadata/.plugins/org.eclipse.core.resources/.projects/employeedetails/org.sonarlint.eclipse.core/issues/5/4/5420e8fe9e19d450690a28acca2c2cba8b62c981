@@ -1,0 +1,32 @@
+
+f
+java:S1068".Remove this unused "MotherName" private field.(Ã‘í­şÿÿÿÿ8õÉáü¾0H­4RMAJORZ
+CODE_SMELL
+j
+java:S1128"7Remove this unused import 'javax.persistence.OneToOne'.(Ø½ïâ8–Ù¯¿0H¯4RMINORZ
+CODE_SMELL
+f
+java:S1068".Remove this unused "FatherName" private field.(ÆÌËµÿÿÿÿÿ8õÉáü¾0H±4RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¡ÅúşÿÿÿÿH³4RMINORZ
+CODE_SMELL
+q
+java:S1068">Remove this unused "employeeIdentificationMark" private field.(€³„‡8õÉáü¾0H´4RMAJORZ
+CODE_SMELL
+m
+java:S1128":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê8–Ù¯¿0H¶4RMINORZ
+CODE_SMELL
+b
+java:S1068"/Remove this unused "employeeDOJ" private field.(Øı ²8õÉáü¾0H¸4RMAJORZ
+CODE_SMELL
+i
+java:S1068
+"1Remove this unused "employeePanNo" private field.(÷Ä›Èùÿÿÿÿ8õÉáü¾0Hº4RMAJORZ
+CODE_SMELL
+Œ	java:S116"URename this field "FatherName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÌËµÿÿÿÿÿ8õÉáü¾0H¼4RMINORZ
+CODE_SMELL
+Œ	java:S116"URename this field "MotherName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã‘í­şÿÿÿÿ8õÉáü¾0H½4RMINORZ
+CODE_SMELL
+g
+java:S1068	"4Remove this unused "employeeAadharNo" private field.(ˆÈú8õÉáü¾0H¾4RMAJORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+
+m
+java:S1191"5Use classes from the Java API instead of Sun classes.(â‡˜ñûÿÿÿÿ8’éÆÓ¿0Hå4RMAJORZ
+CODE_SMELL
+~
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ýÍýüÿÿÿÿ8’éÆÓ¿0Hæ4RMINORZ
+CODE_SMELL
+r
+java:S1128":Remove this unused import 'sun.print.resources.serviceui'.(â‡˜ñûÿÿÿÿ8’éÆÓ¿0Hè4RMINORZ
+CODE_SMELL
+y
+java:S4684""@Replace this persistent entity with a simple POJO or DTO object.(—†¤ù8ª†ŠÒ¿0Hê4RCRITICALZVULNERABILITY

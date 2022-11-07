@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+<!--  <bean class="com.te.springcore.bean.Emp" id="emp" autowire="byName"> -->
+<!-- <property name="empId" value="100"></property> -->
+<!-- <property name="empName" value="Sushma"></property> -->
+<!-- </bean>  -->
+
+<!-- <bean class="com.te.springcore.bean.EmpAdd" id="empadd1"> -->
+<!-- <property name="empStreet" value="Jaynagar"></property> -->
+<!-- <property name="empCity" value="Bengaluru"></property> -->
+<!-- <property name="empState" value="Karnataka"></property> -->
+<!-- </bean> -->
+
+<!-- <bean class="com.te.springcore.bean.EmpAdd" id="empadd2"> -->
+<!-- <property name="empStreet" value="4th Block"></property> -->
+<!-- <property name="empCity" value="Bengaluru"></property> -->
+<!-- <property name="empState" value="Karnataka"></property> -->
+<!-- </bean>  -->
+
+<bean class="com.te.springcore.bean.Emp" id="emp" autowire="constructor">
+<constructor-arg name="empId" index="0" value="100"></constructor-arg>
+<constructor-arg name="empName" index="1" value="Sushma"></constructor-arg>
+<!-- <constructor-arg name="address" index="2" ref="empadd1"></constructor-arg> -->
+</bean>
+
+<bean class="com.te.springcore.bean.EmpAdd" id="empadd">
+<constructor-arg name="empStreet" index="0" value="Jaynagar"></constructor-arg>
+<constructor-arg name="empCity" index="1" value="Bengaluru"></constructor-arg>
+<constructor-arg name="empState" index="2" value="Karnataka"></constructor-arg>
+</bean>
+
+<bean class="com.te.springcore.bean.EmpAdd" id="empadd2">
+<constructor-arg name="empStreet" index="0" value="JP Nagar"></constructor-arg>
+<constructor-arg name="empCity" index="1" value="Bengaluru"></constructor-arg>
+<constructor-arg name="empState" index="2" value="Karnataka"></constructor-arg>
+</bean>
+
+</beans>

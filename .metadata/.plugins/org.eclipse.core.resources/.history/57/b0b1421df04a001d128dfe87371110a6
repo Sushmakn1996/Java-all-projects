@@ -1,0 +1,33 @@
+package com.te.java.Java1;
+
+import java.io.Serializable;
+
+public class JavaBeanClass implements Serializable {
+	private String name;
+	private int Id;
+	
+public static void main(String[] args) {
+	
+}
+
+public JavaBeanClass() {
+	super();
+}
+
+public String getName() {
+	return name;
+}
+
+public void setName(String name) {
+	this.name = name;
+}
+
+public int getId() {
+	return Id;
+}
+
+public void setId(int id) {
+	Id = id;
+}
+
+}
